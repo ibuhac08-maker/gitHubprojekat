@@ -1,2 +1,5 @@
 Testiranje funkcionalnosti za logovanje.
 Testiram unos emaila.
+
+Ovo radim na test grani i testiram logovanje - vjezba
+Dodato testiranje i passworda
